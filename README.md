@@ -21,7 +21,7 @@
 
 <br><br>
 
-<a href="https://github.com/sszadesign/Scanza/releases/assets/v0.2.6/Scanza-v0.2.6.apk">
+<a href="https://github.com/sszadesign/SSZA-Scanza/releases/assets/v0.2.6/Scanza-v0.2.6.apk">
   <img src="https://img.shields.io/badge/%E2%AC%87%20DESCARGAR%20SCANZA-v0.2.6-30C7E8?style=for-the-badge&logo=android&logoColor=white" alt="Descargar Scanza v0.2.6">
 </a>
 
