@@ -327,30 +327,6 @@ Evita publicar documentos privados, información personal o información sensibl
 
 ---
 
-## 📂 Recursos gráficos
-
-Los elementos gráficos utilizados por este README se encuentran dentro de:
-
-```text
-assets/
-```
-
-Estructura recomendada:
-
-```text
-Scanza/
-│
-├── README.md
-│
-├── assets/
-│   ├── scanza_logo.png
-│   └── ssza_design_logo.png
-│
-└── ...
-```
-
----
-
 ## ©️ Identidad y distribución
 
 **Scanza** es un proyecto desarrollado por **SSZA - Design**.
