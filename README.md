@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/scanza_logo.png" alt="Scanza Logo" width="155">
+<img src="assets/scanza_logo.png" alt="Scanza Logo" width="155">
 
 # Scanza
 
@@ -250,7 +250,7 @@ Las nuevas versiones continuarán enfocándose en:
 
 <br>
 
-<img src="assets/images/scanza_logo.png" alt="Scanza Logo" width="90">
+<img src="assets/ssza_design__logo.png" alt="SSZA - Design" width="90">
 
 ### Scanza
 
