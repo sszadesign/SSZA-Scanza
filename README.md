@@ -15,13 +15,13 @@
 <br>
 
 [![Version](https://img.shields.io/badge/Version-v0.2.6-30C7E8?style=for-the-badge)](https://github.com/sszadesign/SSZA-Scanza/releases/tag/v0.2.6)
-[![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sszadesign/SSZA-Scanza/releases/assets/v0.2.6/Scanza-v0.2.6.apk)
+[![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sszadesign/SSZA-Scanza/releases/download/v0.2.6/Scanza-v0.2.6.apk)
 [![Status](https://img.shields.io/badge/Status-Public%20Beta-2C7BE5?style=for-the-badge)](https://github.com/sszadesign/SSZA-Scanza/releases)
 [![SSZA](https://img.shields.io/badge/SSZA-Design-111827?style=for-the-badge)](https://www.facebook.com/profile.php?id=61593753136873)
 
 <br><br>
 
-<a href="https://github.com/sszadesign/SSZA-Scanza/releases/assets/tag/v0.2.6/Scanza-v0.2.6.apk">
+<a href="https://github.com/sszadesign/SSZA-Scanza/releases/download/v0.2.6/Scanza-v0.2.6.apk">
   <img src="https://img.shields.io/badge/%E2%AC%87%20DESCARGAR%20SCANZA-v0.2.6-30C7E8?style=for-the-badge&logo=android&logoColor=white" alt="Descargar Scanza v0.2.6">
 </a>
 
