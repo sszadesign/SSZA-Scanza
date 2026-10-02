@@ -887,9 +887,9 @@ Para documentos importantes se recomienda revisar visualmente cada página antes
 
 <br><br>
 
-**[Descargar](https://github.com/sszadesign/Scanza/releases/download/v0.2.6/Scanza-v0.2.6.apk)**
+[Descargar](https://github.com/sszadesign/SSZA-Scanza/releases/download/v0.2.6/Scanza-v0.2.6.apk)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-**[Releases](https://github.com/sszadesign/Scanza/releases)**
+[Releases](https://github.com/sszadesign/SSZA-Scanza/releases)
 &nbsp;&nbsp;•&nbsp;&nbsp;
 **[Facebook](https://www.facebook.com/profile.php?id=61593753136873)**
 &nbsp;&nbsp;•&nbsp;&nbsp;
